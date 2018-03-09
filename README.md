@@ -4,9 +4,9 @@ This repo is to help with knowledge sharing / transfer between all the community
 
 ## To Do
 
-[] Venues
-[] Catering Options
-[] Event Marketing Tips & Tricks
+*   [ ] Venues
+*   [ ] Catering Options
+*   [ ] Event Marketing Tips & Tricks
 
 ## Contributing
 
