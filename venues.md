@@ -113,3 +113,21 @@ Meetup groups that have used this venue:
 * DCPHP
 * React DC
 * DCJS
+
+## Optoro
+
+| Capacity (sit/total) |    AV?    | Allow Booze? | Chairs & Tables? | Metro distance?  | Security Check-In? |
+| -------------------- | --------- | ------------ | ---------------- | ---------------- | ------------------ |
+|        80/150        |    yes    |      yes     |       both       | literally on top |        yes         |
+
+> Notes, if any: Can additionally record talks with a little prior notice. Contact Jess on the DCTech Slack for more info!
+
+Meetup groups that have used this venue:
+* DCRUG
+* The Joy of Programming Meetup
+* DCUX
+* DCVIM
+* DevOps DC
+* Vue DC
+* a bunch of other random things now and then ;)
+
