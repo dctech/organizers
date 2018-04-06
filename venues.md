@@ -131,3 +131,18 @@ Meetup groups that have used this venue:
 * Vue DC
 * a bunch of other random things now and then ;)
 
+## Arlington Tech Exchange, aka ATX (Excella)
+
+| Capacity (sit/total) |    AV?    | Allow Booze? | Chairs & Tables? | Metro distance? | Security Check-In? |
+| -------------------- | --------- | ------------ | ---------------- | --------------- | ------------------ |
+|      100             |    yes    |      yes     |       both       |    very close   |        no          |
+
+> Notes, if any: Space can be broken into 2 rooms, comes with an eat-in cafe space 
+
+Meetup groups that have used this venue:
+* IIBA DC
+* DC SUG
+* NoVA UX
+* Tech Talk DC
+* NoVa Code & Coffee
+* Arlington Ruby
